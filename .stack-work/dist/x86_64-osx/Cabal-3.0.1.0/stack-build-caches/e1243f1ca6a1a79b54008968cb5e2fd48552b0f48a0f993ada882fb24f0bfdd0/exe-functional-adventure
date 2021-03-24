@@ -1,0 +1,44 @@
+/Users/daddy/Documents/CS/MPCS/Functional Programming/davidxhuang/functional-adventure/src/Item.hs:
+  hash: 49bce7b99c0b18b50ebcd0df9fe935a71ed0b352a8f45e3db0b9a3f91771b39a
+  size: 507
+  modtime: 1591838212
+/Users/daddy/Documents/CS/MPCS/Functional Programming/davidxhuang/functional-adventure/src/Player.hs:
+  hash: 23e8894c022ce5673eba11732109edb1724ffeeb1c61b35b0e89c8fb4241302b
+  size: 589
+  modtime: 1591838372
+/Users/daddy/Documents/CS/MPCS/Functional Programming/davidxhuang/functional-adventure/src/GameState.hs:
+  hash: 63487cfbbf763c24fe9a43be100c5f28093fb86cf1cfd154b76339743367c4ee
+  size: 13240
+  modtime: 1591853424
+/Users/daddy/Documents/CS/MPCS/Functional Programming/davidxhuang/functional-adventure/src/Room.hs:
+  hash: dfa6b4a4a4d50d3c8ae5e2fc445876cfceb92cf37fb0b78b664afdca9220a51d
+  size: 758
+  modtime: 1591838201
+/Users/daddy/Documents/CS/MPCS/Functional Programming/davidxhuang/functional-adventure/src/Command.hs:
+  hash: d5c16b77582e81172a8eaa4b4a1584cbba32f95addd806bbb01a27647e4190a4
+  size: 4459
+  modtime: 1591838246
+/Users/daddy/Documents/CS/MPCS/Functional Programming/davidxhuang/functional-adventure/src/GameIO.hs:
+  hash: c0fa0ebf0af0b5f6a5ddc7c04868aa75dc64768717669696d7b5a8e1979c2008
+  size: 5453
+  modtime: 1591840173
+/Users/daddy/Documents/CS/MPCS/Functional Programming/davidxhuang/functional-adventure/src/Initialize.hs:
+  hash: 981af9e95bd55af38bd3f784e9891ed763a6ed9733f694c21ecba742d8825df2
+  size: 8170
+  modtime: 1592599261
+/Users/daddy/Documents/CS/MPCS/Functional Programming/davidxhuang/functional-adventure/README.md:
+  hash: 4f8111ef0566d01e57207fd9f78c5e2acbbc1eed7713f24b32a24d6fa1f7610b
+  size: 3958
+  modtime: 1591853424
+/Users/daddy/Documents/CS/MPCS/Functional Programming/davidxhuang/functional-adventure/src/Direction.hs:
+  hash: c91f286a6cc8aa5dac4dcb0d5458e6df1ecd6fa4d794376615c2c0914b913170
+  size: 267
+  modtime: 1591746165
+/Users/daddy/Documents/CS/MPCS/Functional Programming/davidxhuang/functional-adventure/src/Main.hs:
+  hash: db2d78e12b7a2ea95e76270c9c4f5793caf553842a1d60bbcd450d7810ba5282
+  size: 501
+  modtime: 1591850402
+/Users/daddy/Documents/CS/MPCS/Functional Programming/davidxhuang/functional-adventure/functional-adventure.cabal:
+  hash: dbe6ec37bcda8d2b1e7800f204f651fcb581da28b99b0b2cdc7ef18fcefe0398
+  size: 1396
+  modtime: 1591762936
