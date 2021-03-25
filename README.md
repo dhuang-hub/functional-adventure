@@ -1,16 +1,22 @@
 # functional-adventure
+#### By David Huang
 
-Header Note: I caught a non-fatal game state message bug late, and it was too irksome to leave unfixed. Grade my latest non-late submission.
+My final project submission for a text-based functional adventure game. You awake with start in the basement of some building without a soul in sight. How do you proceed?
+
+## Environment Requirements
+- stack
+
+## To Run
+`stack build`
+
+`stack exec functional-adventure`
 
 
-Name: David Huang
-Date: June 10, 2020
-
-Acknowledgements:
+## Acknowledgements
 Thank you Matt, Robert, and graders for an excellent quarter despite all of the unexpected challenges we're all facing at this time, y'all rock.
 
 
-Newly Implemented Features:
+## Newly Implemented Features
 - Entirely new map - Sorry! I'm the bad apple who didn't read the prompt carefully before coding. But I hope you find this map amusing, because... you'll see.
 - "Help" Command - Type "help" any time
 - "LookAt" Command - Type "look at 'things...'" to get details and object descriptions printed out. 
@@ -24,7 +30,7 @@ Newly Implemented Features:
 
 
 Other Thoughts and Comments:
-There are many ways this game could be improved in implementation. But if I had more time, I would start with reworking the parsing. My current implementation rules that objects must be parsed as a string of continuous alpha and lower-case characters hence... ugly, painful-to-read, annoying-to-mistype, names of certain `ItemNames`. In short, better parsing, and smarter Data Typing to make this game implementation less 'hacky'. But I hope you find some joy in this. I certainly enjoyed designing this game, and more importantly, I thoroughly enjoyed this course very much. I've learned a lot and it certainly has opened my eyes to more things.
+There are many ways this game could be improved in implementation. But if I had more time, I would start with reworking the parsing. My current implementation rules that objects must be parsed as a string of continuous alpha and lower-case characters... ugly, painful-to-read, annoying-to-mistype, names of certain `ItemNames`. In short, better parsing, and smarter Data Typing to make this game implementation less 'hacky'.
 
 Thanks so much!
 
@@ -32,9 +38,9 @@ Thanks so much!
 
 
 
-~~~~~~~~~~~~~~~~* SPOILER ALERT *~~~~~~~~~~~~~~~~~~~~
+## ~~~~~~~~~~~~~~~~* SPOILER ALERT *~~~~~~~~~~~~~~~~
 
-Solution Run Below:
+Solution Run Below (copy and paste part or all of it into the running program):
 
 south and west and take book and use book and drop book and east and south and use stairsup and east and north and use computer and take badge and south and west and use stairsup and use stairsup and use floorthreedoor and north and north and take key and north and south and west and use stairsdown and use stairsdown and use stairsdown and use basementdoor and take knowledge and west and use stairsup and east and use maindoor
 
